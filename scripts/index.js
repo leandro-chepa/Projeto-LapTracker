@@ -9,3 +9,11 @@ document.getElementById("btnConsultarTempo").onclick = function () {
 document.getElementById("btnTabelaCamp").onclick = function () {
             window.location.href = "pages/tabelaCamp.html";
         };
+
+document.getElementById("btnCadastrarPista").onclick = function () {
+            window.location.href = "pages/cadastroPista.html";
+        };
+
+document.getElementById("btnLinks").onclick = function () {
+            window.location.href = "pages/links.html";
+        };

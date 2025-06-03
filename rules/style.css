@@ -1,12 +1,12 @@
     body {
       margin: 0;
       font-family: Arial, sans-serif;
-      background-color: #d3d3d3;
+      background-color: #c0c2cc;
     }
 
     header {
-      background-color: #555;
-      color: black;
+      background-color: #031C26;
+      color: #71969F;
       padding: 10px;
       text-align: center;
       font-weight: bold;
@@ -30,7 +30,7 @@
 
     .sidebar {
       width: 250px;
-      background-color: #a5a8b9;
+      background-color: #003F63;
       padding: 10px;
       box-sizing: border-box;
     }
@@ -40,7 +40,7 @@
       width: 100%;
       padding: 12px;
       margin: 10px 0;
-      background-color: #333;
+      background-color: #031C26;
       color: white;
       font-weight: bold;
       border: none;
@@ -78,7 +78,7 @@
     }
 
     .table-header {
-      background-color: #003366;
+      background-color: #003F63;
       color: white;
       font-weight: bold;
     }
@@ -87,11 +87,8 @@
       text-align: center;
       padding: 10px;
       font-size: 12px;
-    }
-
-    body {
-      background-color: #c0c2cc;
-      font-family: Arial, sans-serif;
+      background-color: #031C26;
+      color: white;
     }
 
     .form-container {
@@ -124,7 +121,7 @@
     }
 
     .btn-submit {
-      background-color: #333;
+      background-color: #031C26;
       color: white;
       font-weight: bold;
       padding: 12px 20px;
